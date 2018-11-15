@@ -25,6 +25,7 @@ Nodo *crea_maiuscolo(){
 
 	Coda -> next = NULL;
 
+	return Testa;
 }
 
 Nodo *crea_minuscolo(){
