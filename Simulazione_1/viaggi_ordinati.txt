@@ -1,0 +1,8 @@
+Catalogo dei viaggi:
+1) Localita' Amburgo, temperatura media stimata 12.00 gradi Celsius, il pacchetto viaggio proposto e' in promozione.
+2) Localita' Helsinki, temperatura media stimata 15.00 gradi Celsius, il pacchetto viaggio proposto e' in promozione.
+3) Localita' Tallin, temperatura media stimata 18.30 gradi Celsius, il pacchetto viaggio proposto e' in promozione.
+4) Localita' Parigi, temperatura media stimata 22.00 gradi Celsius, il pacchetto viaggio proposto non e' in promozione.
+5) Localita' Valencia, temperatura media stimata 30.00 gradi Celsius, il pacchetto viaggio proposto non e' in promozione.
+6) Localita' Berlino, temperatura media stimata 32.50 gradi Celsius, il pacchetto viaggio proposto non e' in promozione.
+7) Localita' Rio, temperatura media stimata 38.00 gradi Celsius, il pacchetto viaggio proposto non e' in promozione.

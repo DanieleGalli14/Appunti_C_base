@@ -1,0 +1,7 @@
+Helsinki 15 1
+Tallin 18.3 1
+Berlino 32.5 0
+Parigi 22 0
+Amburgo 12 1
+Valencia 30 0
+Rio 38 0

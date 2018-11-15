@@ -1,0 +1,58 @@
+
+
+"tipo": int, char, void, ecc.
+
+-----liste.h ------
+
+#include<lib1>
+#include<lib2>
+...
+#include<libn>
+
+typedef struct lista{
+	elemento lista 1;
+	elemento lista 2;
+	...
+	elemento lista n;
+	struct lista *next;
+}list;
+
+"tipo" funz1 (dati 1);
+"tipo" funz2 (dati 2);
+...
+"tipo" funzn (dati n);
+
+
+-----liste.c------
+
+#include "liste.h"
+
+\\descrizione funz1
+
+"tipo" funz1 (dati 1){
+	corpo funz1;
+}
+
+\\descrizione funz2
+
+"tipo" funz2 (dati 2){
+	corpo funz2;
+}
+
+\\descrizione funz3
+
+"tipo" funz3 (dati 3){
+	corpo funz3;
+}
+
+-----main.c------
+
+#include "liste.h"
+
+void main(){
+	**dati**;
+	
+	funz1(dati1);
+	funz2(dati2);
+	funz3(dati3);
+}

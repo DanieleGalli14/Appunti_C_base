@@ -1,0 +1,3 @@
+#include <stdio.h>
+
+int equal (list l1, list l2)
