@@ -9,7 +9,23 @@ typedef struct nodo{
 }Nodo;
 
 Nodo *crea_maiuscolo(){
-	
+	Nodo *Testa = NULL;
+	Nodo *Coda = NULL;
+	char c;
+
+	Testa = (Nodo *)malloc(sizeof(Nodo));
+	Testa -> data = 65;
+	Coda = Testa;
+
+	for(c = 66; c <= ZETAMAIUSCOLO; c++){
+		Coda -> next = (Nodo *)malloc(sizeof(Nodo));
+		Coda = Coda -> next;
+		Coda -> data = c;
+	}
+
+	Coda -> next = NULL;
+
+	return Testa;
 }
 
 Nodo *crea_minuscolo(){
